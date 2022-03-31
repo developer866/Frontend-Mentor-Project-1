@@ -16,9 +16,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 **Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ### Links
-
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [live site](https://regal-rabanadas-e4c0c7.netlify.app/)
 
 ### Built with
 
@@ -44,8 +42,8 @@ To see how you can add code snippets, see below:
 ```
 ## Author
 
-- Website - [project1](https://www.your-site.com)
-- Frontend Mentor - [@factorial](https://www.frontendmentor.io/profile/yourusername)
+- Website - [my_website](https://regal-rabanadas-e4c0c7.netlify.app/)
+- Frontend Mentor - [@factorial](https://www.frontendmentor.io/profile/@developer866)
 -  Twitter - [@Tee_jay_fx](https://www.twitter.com/Tee_jay_fx)
 
 
