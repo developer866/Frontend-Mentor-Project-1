@@ -44,8 +44,8 @@ To see how you can add code snippets, see below:
 ```
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
+- Website - [project1](https://www.your-site.com)
+- Frontend Mentor - [@factorial](https://www.frontendmentor.io/profile/yourusername)
+-  Twitter - [@Tee_jay_fx](https://www.twitter.com/Tee_jay_fx)
 
 
